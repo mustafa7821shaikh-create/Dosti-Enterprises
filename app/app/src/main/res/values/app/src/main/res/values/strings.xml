@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dosti Enterprises</string>
+    <string-array name="units">
+        <item>Packet</item>
+        <item>Box</item>
+        <item>Patti</item>
+        <item>Nug</item>
+        <item>Kg</item>
+    </string-array>
+</resources>
