@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2563EB</color>
+    <color name="primary_light">#EFF6FF</color>
+    <color name="bg">#F5F6FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text">#1E293B</color>
+    <color name="muted">#64748B</color>
+    <color name="danger">#EF4444</color>
+    <color name="danger_light">#FEF2F2</color>
+    <color name="success">#16A34A</color>
+    <color name="success_light">#F0FDF4</color>
+    <color name="warning">#D97706</color>
+    <color name="purple">#7C3AED</color>
+    <color name="purple_light">#EDE9FE</color>
+    <color name="whatsapp">#25D366</color>
+    <color name="border">#E2E8F0</color>
+</resources>
